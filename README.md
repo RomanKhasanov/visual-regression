@@ -1,8 +1,8 @@
 # Visual regression using cypress components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-[Cypress components documentation](https://docs.cypress.io/guides/component-testing/overview)
-[Plugin documentation](https://github.com/haim-io/cypress-image-diff)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)\
+[Cypress components documentation](https://docs.cypress.io/guides/component-testing/overview)\
+[Plugin documentation](https://github.com/haim-io/cypress-image-diff)\
 
 ## Regression Scripts
 
